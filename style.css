@@ -1,7 +1,11 @@
 
-    body {
-    .gradient-bg {
-  background: linear-gradient(to right, #e0b0ff, #8a2be2); 
+   body {
+  min-height: 100vh;
+  margin: 0;
+  background: linear-gradient(to right, #8a2be2, #000000);
+}
+
+}
 }
 
 
@@ -12,3 +16,5 @@
  text-align:center;
 background-color:rgb(124, 86, 160)
  }
+
+ 
